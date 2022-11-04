@@ -1,0 +1,140 @@
+<tokens><identifier> class </identifier>
+<identifier>  </identifier>
+<symbol> { </symbol>
+<keywords>  </keywords>
+<keywords>  </keywords>
+<identifier>  </identifier>
+<symbol> ( </symbol>
+<symbol> ) </symbol>
+<symbol> { </symbol>
+<keywords>  </keywords>
+<identifier>  </identifier>
+<symbol> ; </symbol>
+<identifier> a </identifier>
+<keywords>  </keywords>
+<keywords>  </keywords>
+<identifier>  </identifier>
+<symbol> ; </symbol>
+<keywords>  </keywords>
+<keywords>  </keywords>
+<symbol> , </symbol>
+<identifier> i </identifier>
+<identifier>  </identifier>
+<symbol> ; </symbol>
+<keywords>  </keywords>
+<identifier>  </identifier>
+<symbol> = </symbol>
+<identifier>  </identifier>
+<symbol> . </symbol>
+<identifier>  </identifier>
+<symbol> ( </symbol>
+<symbol>  </symbol>
+<identifier> HOW </identifier>
+<identifier> MANY </identifier>
+<identifier> NUMBERS </identifier>
+<symbol>  </symbol>
+<symbol> ) </symbol>
+<symbol> ; </symbol>
+<keywords>  </keywords>
+<identifier> a </identifier>
+<symbol> = </symbol>
+<identifier>  </identifier>
+<symbol> . </symbol>
+<identifier>  </identifier>
+<symbol> ( </symbol>
+<identifier>  </identifier>
+<symbol> ) </symbol>
+<symbol> ; </symbol>
+<keywords>  </keywords>
+<identifier> i </identifier>
+<symbol> = </symbol>
+<symbol> ; </symbol>
+<keywords>  </keywords>
+<symbol> ( </symbol>
+<identifier> i </identifier>
+<symbol>  </symbol>
+<identifier>  </identifier>
+<symbol> ) </symbol>
+<symbol> { </symbol>
+<keywords>  </keywords>
+<symbol> [ </symbol>
+<symbol> ] </symbol>
+<identifier> ai </identifier>
+<symbol> = </symbol>
+<identifier>  </identifier>
+<symbol> . </symbol>
+<identifier>  </identifier>
+<symbol> ( </symbol>
+<symbol>  </symbol>
+<identifier> ENTER </identifier>
+<identifier> THE </identifier>
+<identifier> NEXT </identifier>
+<identifier> NUMBER </identifier>
+<symbol>  </symbol>
+<symbol> ) </symbol>
+<symbol> ; </symbol>
+<keywords>  </keywords>
+<identifier> i </identifier>
+<symbol> = </symbol>
+<identifier> i </identifier>
+<symbol> + </symbol>
+<symbol> ; </symbol>
+<symbol> } </symbol>
+<keywords>  </keywords>
+<identifier> i </identifier>
+<symbol> = </symbol>
+<symbol> ; </symbol>
+<keywords>  </keywords>
+<identifier>  </identifier>
+<symbol> = </symbol>
+<symbol> ; </symbol>
+<keywords>  </keywords>
+<symbol> ( </symbol>
+<identifier> i </identifier>
+<symbol>  </symbol>
+<identifier>  </identifier>
+<symbol> ) </symbol>
+<symbol> { </symbol>
+<keywords>  </keywords>
+<identifier>  </identifier>
+<symbol> = </symbol>
+<identifier>  </identifier>
+<symbol> + </symbol>
+<symbol> [ </symbol>
+<symbol> ] </symbol>
+<symbol> ; </symbol>
+<identifier> ai </identifier>
+<keywords>  </keywords>
+<identifier> i </identifier>
+<symbol> = </symbol>
+<identifier> i </identifier>
+<symbol> + </symbol>
+<symbol> ; </symbol>
+<symbol> } </symbol>
+<keywords>  </keywords>
+<symbol> . </symbol>
+<symbol> ( </symbol>
+<identifier> OutputprintString </identifier>
+<symbol>  </symbol>
+<identifier> THE </identifier>
+<identifier> AVERAGE </identifier>
+<identifier> IS </identifier>
+<symbol>  </symbol>
+<symbol> ) </symbol>
+<symbol> ; </symbol>
+<keywords>  </keywords>
+<symbol> . </symbol>
+<symbol> ( </symbol>
+<identifier> OutputprintIntsum </identifier>
+<keywords>  </keywords>
+<symbol> . </symbol>
+<symbol> ( </symbol>
+<symbol> ) </symbol>
+<symbol> ; </symbol>
+<identifier> Outputprintln </identifier>
+<keywords>  </keywords>
+<symbol> ; </symbol>
+<symbol> } </symbol>
+<symbol> } </symbol>
+
+</tokens>
